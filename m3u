@@ -681,10 +681,10 @@ http://line.hi-ott.net/rubel6mahre/tkEgBaebQeLCeyv/112886
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9vsYsqI.jpg" group-title="Kids Channels",Cartoon Network HD
-http://45.249.187.238:8081/hls/new14.m3u8
+http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids Channels",Nickelodeon Bangla
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4hbd7Y.png" group-title="Kids Channels",Nickelodeon
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
