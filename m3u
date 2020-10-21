@@ -519,13 +519,13 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2VYyqS9.png" group-title="English Movie",HBO Signature
-https://dl.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movie",HBO Hits
-https://dl.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png" group-title="English Movie",HBO Family
-https://dl.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07tc0UD.png" group-title="English Movie",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
@@ -540,7 +540,7 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English Movie",FOX Movies HD
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJRkwb7.png" group-title="English Movie",FOX Family Movies
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
@@ -603,13 +603,13 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 http://ccn.anytv.live:8080/wb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movie",MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movie",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English Movie",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English Movie",Sony Movies Action
 http://51.52.156.22:8888/http/009
