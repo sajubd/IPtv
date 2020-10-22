@@ -153,10 +153,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-http://global.thunderbd.com/33/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgyvfkM.jpg" group-title="Bangla Movie",Jonakk
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3s4gbs.jpg" group-title="Bangla ENT.",Khushboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo_360p/index.m3u8
@@ -186,7 +189,7 @@ http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 http://global.thunderbd.com/36/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha SD
-http://zero4tv.anytv.live:8080/Starjalsha/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha HD (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
@@ -390,10 +393,10 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM 
-https://load.airtel.tv/9xm/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="Music",Zoom
-http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+http://global.thunderbd.com/60/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="Music",B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
@@ -432,7 +435,7 @@ http://195.181.172.83:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="Music",Ary Musik
-https://itpolly.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
+https://stream.arylive.com/MusikLive/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
@@ -822,10 +825,10 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvt1K0.png" group-title="News",BBC World News
-https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+https://edge-1183-ch-gv.filmon.com/live/3268.low.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiSrVkq.png" group-title="News",CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+https://1176700211.rsc.cdn77.org/loIkiemwe1w_OVREkeuYhA==,1603360791/1176700211/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aBQ1BU.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -852,22 +855,22 @@ https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/aI4qTRZ.png" group-title="Pakistan ENT.",PTV Home
-https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/40827e32/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9c4e4oT.png" group-title="Pakistan ENT.",PTV News
 https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IcJ2Oab.png" group-title="Pakistan ENT.",PTV World
-https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/af34e533/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="Pakistan ENT.",Geo News
 https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="Pakistan ENT.",Ary Digital Asia
-https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistan ENT.",Ary Zindigi
-https://itpolly.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+https://stream.arylive.com/ZindagiLive/tracks-v4a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zBHG5Av.png" group-title="Pakistan ENT.",Geo Entertainment
 http://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
@@ -921,7 +924,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKxFCsv.png" group-title="News",Tara Bangla
-https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5Hk6nL.jpg" group-title="Religious",Quran TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
@@ -960,10 +963,10 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4k5KWQ.jpg" group-title="Sports",Star Sports 1 HD
-http://103.84.253.5/live/fastfeed1002/index.m3u8
+http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports",Star Sports 1 
-http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports",Star Sports 1 Hindi
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -981,7 +984,7 @@ http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?t
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIbmwGR.jpg" group-title="Sports",Star Sports Select 1 HD 
-http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hm2d8Jn.jpg" group-title="Sports",Star Sports Select 2
 http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
