@@ -984,10 +984,10 @@ http://212.47.252.54/hls/stream.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Sports",PTV Sports
-http://global.thunderbd.com/73/tracks-v1a1/mono.m3u8
+http://c1live.com:8081/c1live/ptv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z9fXNQ8.png" group-title="Sports",Ten Sports
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+http://c1live.com:8081/c1live/ons-cricket/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK1OYcI.png" group-title="Sports",PK Sports HD
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
@@ -1026,16 +1026,16 @@ http://c1live.com:8081/c1live/skymain/chunks.m3u8
 https://watchindia.net:8443/live/19681/88833/2095.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD1
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15933
+http://c1live.com:8081/c1live/BeinSports1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD2
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15934
+http://c1live.com:8081/c1live/BeinSports2/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD3
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15935
+http://c1live.com:8081/c1live/BeinSports3/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD4
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15936
+http://c1live.com:8081/c1live/BeinSports4/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD5
 http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15937
@@ -1054,6 +1054,12 @@ http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15941
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD10
 http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15942
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD11
+http://c1live.com:8081/c1live/bin-usa/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD13
+http://c1live.com:8081/c1live/bin-laliga/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gNbmahs.png" group-title="Sports", Super Sports 1 HD
 http://oqab.life:31000/ropon@25/ropon25/217
