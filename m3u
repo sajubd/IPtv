@@ -175,7 +175,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-https://ccntv.anytv.live/sonyaath/index.m3u8
+http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -694,7 +694,7 @@ http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids Channels",Nickelodeon Bangla
-http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
+http://aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4hbd7Y.png" group-title="Kids Channels",Nickelodeon
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
@@ -979,7 +979,7 @@ https://ccntv.anytv.live/starsp1/index.m3u8
 http://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KtqQmcS.jpg" group-title="Sports",Star Sports 2 HD
-http://otv.ftpbd.net/streams/104/index.m3u8
+http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPRKOdT.jpg" group-title="Sports",Star Sports 2
 https://ccntv.anytv.live/starsp2/index.m3u8
