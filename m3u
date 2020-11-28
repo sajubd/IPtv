@@ -348,13 +348,13 @@ http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie",UTV Movies
-http://dx3.gcdn.co/hindi-UTVMOVIES/index.m3u8
+intent://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=#Intent;action=android.intent.action.VIEW;scheme=http;type=video/mp4;end
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie",UTV Action
-http://otv.ftpbd.net/streams/124/index.m3u8
+intent://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=#Intent;action=android.intent.action.VIEW;scheme=http;type=video/mp4;end
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie",UTV HD
-http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
+intent://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=#Intent;action=android.intent.action.VIEW;scheme=http;type=video/mp4;end
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Hindi Movie",Movie Express 
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
