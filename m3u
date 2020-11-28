@@ -351,7 +351,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie",UTV Action
-http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/mono.m3u8?token=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie",UTV HD
 http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8
