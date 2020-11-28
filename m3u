@@ -1030,25 +1030,25 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dmEIYhb.png" group-title="Sports",Willow Cricket
 http://c1live.com:8081/c1live/willow/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Cricket
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpmEVCM.png" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/J5pj2eG.png" group-title="Sports",Sky Sports Mix
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Mix
 http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LwS1NMA.png" group-title="Sports",Sky Sports Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Action
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LwS1NMA.png" group-title="Sports",Sky Sports EPL
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/6doUO8P.png" group-title="Sports",Sky Sports Arena
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Arena
 http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/6doUO8P.png" group-title="Sports",Sky Sports Main Event
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Main Event
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD1
