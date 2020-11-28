@@ -328,6 +328,9 @@ http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.",Colors Rishtey
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.",Colors Super
+http://witv.live:8880/live/52665/91055/983.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="English ENT.",Colors Infinity
 http://89.187.169.203:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
 
@@ -341,7 +344,7 @@ https://streamitv.multitvsolution.in/idvo/wowcinema_360p/index.m3u8
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="English ENT.",And TV HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://witv.live:8880/live/52665/91055/782.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="English ENT.",And TV
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
@@ -533,7 +536,7 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English Movie", SONY PIX HD
-http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
+http://witv.live:8880/live/52665/91055/2101.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English Movie", SONY PIX SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
@@ -545,7 +548,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movie",HBO HD 
-http://198.255.87.59:8080/INDIA_ENGLISH/HBO_HD/tracks-v1a1/mono.m3u8?token=test
+http://witv.live:8880/live/52665/91055/2081.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
@@ -569,10 +572,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="English Movie",Star Movies HD
-http://otv.ftpbd.net/streams/125/index.m3u8
+https://rhridoy136.shortcm.li/starmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlmapJk.jpg" group-title="English Movie",Star Movies HD [UAE] 
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
+http://witv.live:8880/live/52665/91055/2080.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movie",Star Movies Select HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
@@ -671,7 +674,7 @@ https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="English ENT.",Star World HD
-http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+http://witv.live:8880/live/52665/91055/2191.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WknGAXG.png" group-title="English Movie",Hits Movies
 http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
@@ -686,19 +689,19 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6ZDFdK.png" group-title="Kids Channels", SONY YAY
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+http://witv.live:8880/live/52665/91055/2104.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hlpw4wT.jpg" group-title="Kids Channels",Nick HD+
 https://ott.bingebd.com/live/ngrp:nick_hd_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids Channels",Cartoon Network Hindi
-https://ott.bingebd.com/live/ngrp:cartoon_network_all/chunklist.m3u8
+https://tv.nousiptv.com:2562/Omy/1234/3249
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfBMFKB.jpg" group-title="Kids Channels",Cartoon Network HD+
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9vsYsqI.jpg" group-title="Kids Channels",Cartoon Network HD
-http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
+http://witv.live:8880/live/52665/91055/2052.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids Channels",Nickelodeon Bangla
 http://aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
@@ -722,10 +725,10 @@ http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids Channels",Pogo 
-http://dx3.gcdn.co/kids-POGO/index.m3u8
+http://dx3.gcdn.co/kids-HUNGAMATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="Kids Channels",Hugama 
-http://202.163.117.6:9981/stream/channelid/1357890196
+http://dx3.gcdn.co/kids-POGO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids Channels",Disney 
 http://45.249.187.238:8081/hls/live0.m3u8
@@ -770,7 +773,7 @@ https://ott.bingebd.com/live/ngrp:history_tv_hd_all/chunklist.m3u8
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqauMqb.png" group-title="Infotainment",FOX Life
-https://ott.bingebd.com/live/ngrp:fox_life_all/chunklist.m3u8
+https://rhridoy136.shortcm.li/foxlife.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyCGq7e.png" group-title="Infotainment",TLC HD
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
@@ -778,8 +781,11 @@ https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtIGEpA.png" group-title="Infotainment",TLC
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="Infotainment",Travelxp
+http://witv.live:8880/live/52665/91055/872.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="Infotainment",Travelxp HD
-http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
+http://witv.live:8880/live/52665/91055/792.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Infotainment",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?
@@ -800,13 +806,13 @@ http://global.thunderbd.com/44/tracks-v1a1/mono.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaiRLwr.jpg" group-title="Infotainment",NAT Geo SD
-http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8
+http://witv.live:8880/live/52665/91055/790.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Infotainment",NAT Geo HD [BN]
 http://otv.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaTRaYR.jpg" group-title="Infotainment",NAT Geo Wild
-https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/chunklist.m3u8
+http://witv.live:8880/live/52665/91055/2047.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Infotainment", NAT Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?
@@ -1034,7 +1040,7 @@ http://cdnak10.cast4u.info/channels/4/10804.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dmEIYhb.png" group-title="Sports",Willow Cricket
-http://c1live.com:8081/c1live/willow/chunks.m3u8
+http://witv.live:8880/live/52665/91055/1067.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Cricket
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
