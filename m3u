@@ -249,7 +249,7 @@ http://208.115.215.42/ZEE_Anmol_HD/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movie",Zee Cinema
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+http://208.115.215.42/ZEE_Cinema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema UK
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
@@ -480,7 +480,7 @@ https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m
 http://webo.asia/Rub765432tre/4324466777754321/17496
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmxVY4P.png" group-title="Hindi ENT.",SONY SAB 
-https://ccntv.anytv.live/sonysab/index.m3u8
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV
 https://ccntv.anytv.live/sony/index.m3u8
