@@ -279,7 +279,7 @@ http://dx3.gcdn.co/hindi-StargoldselectHD/tracks-v1a1/mono.m3u8
 https://ccntv.anytv.live/stargold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie",Star Gold PK
-http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
+intent://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
