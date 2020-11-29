@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 1)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8?HridoyIPTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 3)
 https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 4)
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 5)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 5)
 http://43.251.86.6:8080/hls/channel_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 6)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 6)
 http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 7)
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Bangabondhu T20(Backup 8)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Bangabondhu T20(Backup 8)
 http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Inda Vs Australia (Backup 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Inda Vs Australia (Backup 1)
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Inda Vs Australia (Backup 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Inda Vs Australia (Backup 2)
 http://aklivetv.com:8080/sonyespn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports."Inda Vs Australia (Backup 3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",Inda Vs Australia (Backup 3)
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangla ENT.", Gazi TV
@@ -361,28 +361,28 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hEcweOc.jpg" group-title="Hindi Movie",B4u Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9z0q0KZ.jpg" group-title="Hindi Movie",B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9z0q0KZ.jpg" group-title="Hindi Movie", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie",UTV Movies
+#EXTINF:0 tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie", UTV Movies
 http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie",UTV Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie", UTV Action
 http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie",UTV HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie", UTV HD
 http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Hindi Movie",Movie Express 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Hindi Movie", Movie Express 
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6wyNDM6.jpg" group-title="Hindi Movie",Movie Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6wyNDM6.jpg" group-title="Hindi Movie", Movie Plus
 http://global.thunderbd.com/97/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="Hindi ENT.",The Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="Hindi ENT.", The Q
 http://dx3.gcdn.co/hindi-DHAMAALTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xCl5xxI.jpg" group-title="Hindi ENT.",Anjan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCl5xxI.jpg" group-title="Hindi ENT.", Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43tYp4d.png" group-title="Hindi ENT.",Shemaaroo TV
@@ -988,16 +988,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports",Star Sports 1 
 http://dx3.gcdn.co/STARSPORTSHD1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports",Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports", Star Sports 1 Hindi
 http://dx3.gcdn.co/STARSPORTS3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KtqQmcS.jpg" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KtqQmcS.jpg" group-title="Sports", Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TPRKOdT.jpg" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TPRKOdT.jpg" group-title="Sports", Star Sports 2
 http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJRGwXy.jpg" group-title="Sports",STAR SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJRGwXy.jpg" group-title="Sports", STAR SPORTS 3
 http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIbmwGR.jpg" group-title="Sports",Star Sports Select 1 
@@ -1009,10 +1009,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hm2d8Jn.jpg" group-title="Sports",Star Sports Select 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hm2d8Jn.jpg" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hm2d8Jn.jpg" group-title="Sports", Star Sports Select 2 HD
 http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2aitprp.png" group-title="Sports",RTA Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2aitprp.png" group-title="Sports", RTA Sports
 http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiXDwF0.jpg" group-title="Sports",D Sports
