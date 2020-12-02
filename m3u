@@ -548,7 +548,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movie",HBO HD 
-http://witv.live:8880/live/52665/91055/2081.ts
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
@@ -602,22 +602,16 @@ http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 https://ott.bingebd.com/live/ngrp:macau_lotus_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="English Movie",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+https://timesnow.airtel.tv/live/RN_pull/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxLlShA.jpg" group-title="English Movie",MNX Movies
-http://103.214.202.218:8081/live/mnx/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxLlShA.jpg" group-title="English Movie",MNX Movies HD
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxMEJmo.png" group-title="English Movie",MN+ HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GeSvy5S.jpg" group-title="English Movie",Movies Now HD
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GeSvy5S.jpg" group-title="English Movie",Movies Now
-http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+https://timesnow.airtel.tv/live/MN_pull/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tFX6cAv.jpg" group-title="English Movie",Filmax	
 http://playlive.goonj.pk/filmaxweb_360p/index.m3u8
@@ -905,7 +899,7 @@ https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8
 https://itpolly.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/45ixuvM.jpg" group-title="Bangla ENT.",DD National
-http://dx3.gcdn.co/hindi-UTVMOVIES/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_360p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="News",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
