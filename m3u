@@ -92,7 +92,7 @@ http://103.108.63.46/live/channels/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Bangla ENT.",Bangla TV
-hhttps://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZwBHYa.png" group-title="Bangla ENT.",Channel S (UK)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
@@ -923,7 +923,7 @@ http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
 http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmVbXpu.jpg" group-title="News",Zee News
-http://216.144.250.174/Zee_News_HD/index.m3u8
+http://dx3.gcdn.co/hindi-ZEENEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
@@ -980,7 +980,7 @@ https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist_b896000_DVR_sle
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6EHBFr.png" group-title="Sports",ESPN HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+https://dx3.gcdn.co/SONYESPN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4k5KWQ.jpg" group-title="Sports",Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
@@ -1042,6 +1042,9 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dmEIYhb.png" group-title="Sports",Willow Cricket
 http://witv.live:8880/live/52665/91055/1067.ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports
+http://dx3.gcdn.co:80/SKYSPORTSARENAHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/6N7myYv.jpg" group-title="Sports",Sky Sports Cricket
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 
@@ -1068,3 +1071,15 @@ http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD2
 http://dx3.gcdn.co/BEINSPORTSES/index.m3u8
+
+EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport FR2
+http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD3
+http://dx3.gcdn.co/BEINSPORTSMAX3/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD4
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
+
+EXTINF: -1 tvg-logo="https://i.imgur.com/mjyL2rD.png" group-title="Sports",BEIN Sport HD5
+http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
