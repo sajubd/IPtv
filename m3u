@@ -209,7 +209,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://aklivetv.com:8080/colorsbangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha SD
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
@@ -224,7 +224,7 @@ http://indtv.online/jiotv/jijitv/Amaar_Cinema.m3u8
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Bangla Movie",Star Jalsha Movies
-ttps://ccntv.anytv.live/jalshamovise/index.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3YJYn0l.jpg" group-title="Bangla Movie",Star Jalsha Movies HD 
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
@@ -242,7 +242,7 @@ http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/95/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="Hindi ENT.",Zee TV
-http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZpVnzA.jpg" group-title="Hindi ENT.",Zee TV HD
 http://208.115.215.42/ZEE_TV_HD_02/tracks-v1a1/mono.m3u8
@@ -263,7 +263,7 @@ http://208.115.215.42/ZEE_Cinema_HD/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema HD
-http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Hindi Movie",Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
@@ -284,7 +284,7 @@ http://z5amshls.akamaized.net/smileusa/playlist.m3u8
 http://198.255.87.59:8080/INDIA_HINDI/MINIPLEX_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/l10lqLx.jpg" group-title="Hindi Movie", Star Gold Select HD
-http://dx3.gcdn.co/hindi-StargoldselectHD/tracks-v1a1/mono.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie",Star Gold
 https://ccntv.anytv.live/stargold/index.m3u8
@@ -293,7 +293,7 @@ https://ccntv.anytv.live/stargold/index.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
-http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Hindi Movie",Star Gold 2
 https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
@@ -302,7 +302,7 @@ https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
 http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Hindi ENT.",STAR Plus HD
-http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi ENT.",STAR Plus
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
@@ -311,28 +311,28 @@ http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-STARBHARATUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GDpzNP.jpg" group-title="Hindi ENT.",Star Bharat HD
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.",Colors TV 
 http://dx3.gcdn.co/hindi-COLORSUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.",Colors HD
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.",Colors UK
 http://dx3.gcdn.co/hindi-COLORSUK/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/750L5X5.png" group-title="Hindi Movie",Color Cineplex HD
-http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_CINEPLEX_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.",Colors Rishtey
-http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
+http://208.115.215.42/Colors_Rishtey/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.",Colors Super
 http://witv.live:8880/live/52665/91055/983.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="English ENT.",Colors Infinity
-http://89.187.169.203:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movie",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -344,19 +344,19 @@ https://streamitv.multitvsolution.in/idvo/wowcinema_360p/index.m3u8
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="English ENT.",And TV HD
-http://witv.live:8880/live/52665/91055/782.ts
+http://156.146.43.241:2200/R-EX/HINDI_AND_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="English ENT.",And TV
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movie",And Picture HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v5a1/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="Hindi Movie",And Picture SD
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AI0fwMY.png" group-title="Hindi Movie",B4U Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+http://156.146.43.241:2200/R-EX/HINDI_B4U_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hEcweOc.jpg" group-title="Hindi Movie",B4u Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
@@ -365,13 +365,13 @@ http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie", UTV Movies
-http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=#Intent;action=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie", UTV Action
 http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie", UTV HD
-http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Hindi Movie", Movie Express 
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
@@ -488,7 +488,7 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/chunks.m3u8
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9EwSQxt.jpg" group-title="Music", Utv Bindass
-http://webo.asia/Rub765432tre/4324466777754321/17496
+http://156.146.43.241:2200/R-EX/HINDI_BINDAS_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmxVY4P.png" group-title="Hindi ENT.",SONY SAB 
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
@@ -500,7 +500,7 @@ https://ccntv.anytv.live/sony/index.m3u8
 https://ccntv.anytv.live/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2 (BU)
 https://ccntv.anytv.live/sonymax2/index.m3u8
@@ -509,22 +509,22 @@ https://ccntv.anytv.live/sonymax2/index.m3u8
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOHchYO.jpg" group-title="Hindi ENT.",SONY Pal
-http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_PAL-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie",SONY MAX
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGdQhSD.png" group-title="Hindi Movie",SONY MAX HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV HD
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Hindi ENT.",SONY SAB HD
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WataQBL.png" group-title="Hindi Movie",& Xplore
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
+http://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movie",& Flix
 https://ccntv.anytv.live/flix/index.m3u8
@@ -536,7 +536,7 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English Movie", SONY PIX HD
-http://witv.live:8880/live/52665/91055/2101.ts
+http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English Movie", SONY PIX SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
@@ -548,7 +548,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movie",HBO HD 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://156.146.43.241:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
@@ -569,7 +569,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07tc0UD.png" group-title="English Movie",Star Movies
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="English Movie",Star Movies HD
 https://rhridoy136.shortcm.li/starmovies.m3u8
@@ -578,7 +578,7 @@ https://rhridoy136.shortcm.li/starmovies.m3u8
 http://witv.live:8880/live/52665/91055/2080.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movie",Star Movies Select HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English Movie",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
@@ -635,7 +635,7 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRbzzJl.png" group-title="English Movie", WB 
-https://ott.bingebd.com/live/ngrp:wb_all/chunklist.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_WARNER_BROS-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movie",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
@@ -668,7 +668,7 @@ https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="English ENT.",Star World HD
-http://witv.live:8880/live/52665/91055/2191.ts
+http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WknGAXG.png" group-title="English Movie",Hits Movies
 http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
@@ -683,19 +683,19 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6ZDFdK.png" group-title="Kids Channels", SONY YAY
-http://witv.live:8880/live/52665/91055/2104.ts
+http://156.146.43.241:2200/R-EX/HINDI_SONY_YAY-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hlpw4wT.jpg" group-title="Kids Channels",Nick HD+
-https://ott.bingebd.com/live/ngrp:nick_hd_all/chunklist.m3u8
+http://156.146.43.241:2200/R-EX/KIDS_NICK_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids Channels",Cartoon Network Hindi
-https://tv.nousiptv.com:2562/Omy/1234/3249
+http://156.146.43.241:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfBMFKB.jpg" group-title="Kids Channels",Cartoon Network HD+
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9vsYsqI.jpg" group-title="Kids Channels",Cartoon Network HD
-http://witv.live:8880/live/52665/91055/2052.ts
+http://156.146.43.241:2200/R-EX/KIDS_CN_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids Channels",Nickelodeon Bangla
 http://aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
@@ -719,13 +719,13 @@ http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids Channels",Pogo 
-http://dx3.gcdn.co/kids-HUNGAMATV/tracks-v1a1/mono.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="Kids Channels",Hugama 
 http://dx3.gcdn.co/kids-POGO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids Channels",Disney 
-http://45.249.187.238:8081/hls/live0.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lDOQN7w.jpg" group-title="Kids Channels", ZEE5 Kids
 http://indtv.online/zee5/zee5/0-9-290.m3u8
@@ -767,7 +767,7 @@ https://ott.bingebd.com/live/ngrp:history_tv_hd_all/chunklist.m3u8
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqauMqb.png" group-title="Infotainment",FOX Life
-https://rhridoy136.shortcm.li/foxlife.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyCGq7e.png" group-title="Infotainment",TLC HD
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
@@ -776,7 +776,7 @@ https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="Infotainment",Travelxp
-http://witv.live:8880/live/52665/91055/872.ts
+http://156.146.43.241:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="Infotainment",Travelxp HD
 http://witv.live:8880/live/52665/91055/792.ts
@@ -791,22 +791,22 @@ http://indtv.online/zee5/zee5/0-9-livingfoodz.m3u8
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JXq6O2S.png" group-title="Infotainment",Sony BBC Earth HD (ENG)
-http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
+http://156.146.43.241:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JXq6O2S.png" group-title="Infotainment",BBC Earth HD
-http://global.thunderbd.com/44/tracks-v1a1/mono.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9uxI985.png" group-title="Infotainment",NAT Geo HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaiRLwr.jpg" group-title="Infotainment",NAT Geo SD
-http://witv.live:8880/live/52665/91055/790.ts
+http://156.146.43.241:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Infotainment",NAT Geo HD [BN]
-http://otv.ftpbd.net/streams/110/index.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaTRaYR.jpg" group-title="Infotainment",NAT Geo Wild
-http://witv.live:8880/live/52665/91055/2047.ts
+http://156.146.43.241:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Infotainment", NAT Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?
