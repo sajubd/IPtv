@@ -86,7 +86,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hY5SJLT.png" group-title="Bangla ENT.",Channel S
-http://103.108.63.46/live/channels/index.m3u8
+https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangla ENT.",Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -293,7 +293,7 @@ https://ccntv.anytv.live/stargold/index.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
-http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
+http://208.115.215.42/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Hindi Movie",Star Gold 2
 https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
@@ -503,7 +503,7 @@ https://ccntv.anytv.live/sony/index.m3u8
 http://45.127.244.7:8080/hls/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2
-http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2 (BU)
 https://ccntv.anytv.live/sonymax2/index.m3u8
@@ -521,7 +521,7 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV HD
-http://156.146.43.241:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=
+http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Hindi ENT.",SONY SAB HD
 http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
