@@ -536,10 +536,10 @@ http://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?tok
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xTA4fC.jpg" group-title="English Movie",& Flix HD
-http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movie",& PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English Movie", SONY PIX HD
 http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -560,7 +560,7 @@ http://156.146.43.241:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 2 
-http://136.243.177.164/HBO/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 3 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
@@ -590,7 +590,7 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJRkwb7.png" group-title="English Movie",FOX Family Movies
-http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="English Movie",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -600,6 +600,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hYtgQJ.png" group-title="English Movie",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hYtgQJ.png" group-title="English Movie",Cinemax
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4LviKAs.png" group-title="English Movie",FX
 http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
@@ -857,16 +860,16 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvt1K0.png" group-title="News",BBC World News
-http://global.thunderbd.com/44/tracks-v1a1/mono.m3u8
+http://203.162.235.41:16917
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiSrVkq.png" group-title="News",CNN
-https://1176700211.rsc.cdn77.org/loIkiemwe1w_OVREkeuYhA==,1603360791/1176700211/tracks-v1a1/mono.m3u8
+http://203.162.235.41:16918
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aBQ1BU.png" group-title="News",Al Jazeera
-https://ccntv.anytv.live/alja/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pIoGxL.png" group-title="News",DW
-http://global.thunderbd.com/85/tracks-v1a1/mono.m3u8
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GD7pMd.png" group-title="News",CNBC TV
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
