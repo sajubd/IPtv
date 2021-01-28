@@ -50,10 +50,10 @@ http://103.205.133.48/hls/deeptotv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla ENT.", NTV
-http://103.205.133.20/hls/ntv.m3u8
+http://103.49.168.171:8081/ebox/bd_ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangla ENT.",Nagorik TV
-http://103.205.133.20/hls/nagorik.m3u8
+http://103.102.27.172:6464/Channel-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangla ENT.",RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -119,7 +119,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TN9Y4FW.png" group-title="Bangla ENT.",T-Sports HD TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://103.49.168.171:8081/live/tsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla ENT.",BTV World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -242,7 +242,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8
 http://45.127.244.7:8080/hls/channel10.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Bangla ENT.",Ruposhi Bangla
-http://global.thunderbd.com/95/tracks-v1a1/mono.m3u8
+http://103.49.168.171:8081/ebox/in_ruposhibangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="Hindi ENT.",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
@@ -533,7 +533,7 @@ http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token
 http://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movie",& Flix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.m3u8
+http://103.49.168.171:8081/ebox/in_andflix_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xTA4fC.jpg" group-title="English Movie",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u
@@ -989,7 +989,7 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist_b896000_DVR_sl
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJkKsAs.png" group-title="Sports",SONY SIX 
-http://45.127.244.7:8080/hls/channel15.m3u8 
+http://103.102.27.172:6464/Channel-3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",SONY SIX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
@@ -1001,7 +1001,7 @@ https://dx3.gcdn.co/SONYESPN/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports",Star Sports 1 
-http://45.127.244.7:8080/hls/channel7.m3u8 
+http://103.102.27.172:6464/Channel-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2lI8tu.jpg" group-title="Sports", Star Sports 1 Hindi
 http://dx3.gcdn.co/STARSPORTS3/tracks-v1a1/mono.m3u8
@@ -1034,7 +1034,7 @@ http://212.47.252.54/hls/stream.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Sports",PTV Sports
-http://c1live.com:8081/c1live/ptv/chunks.m3u8
+http://103.102.27.172:6464/Channel-4/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z9fXNQ8.png" group-title="Sports",Ten Sports
 http://45.127.244.7:8080/hls/channel5.m3u8
