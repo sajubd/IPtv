@@ -125,7 +125,7 @@ http://103.49.168.171:8081/live/tsports/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla ENT.",BTV
-http://103.205.133.20/hls/btv.m3u8
+http://209.126.120.153/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla ENT.",Sangsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -179,7 +179,7 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
+http://209.126.120.153/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -191,7 +191,7 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/khushboo_360p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MCXgOoy.jpg" group-title="Bangla ENT.",Enterr10 Bangla
-http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/enter10bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Bangla ENT.",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
@@ -209,7 +209,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Bangla ENT.",Colors Bangla SD
-http://45.127.244.7:8080/hls/channel14.m3u8 
+http://209.126.120.153/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
@@ -296,7 +296,7 @@ https://ccntv.anytv.live/stargold/index.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
-https://208.115.215.42/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Hindi Movie",Star Gold 2
 https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
@@ -317,7 +317,7 @@ http://dx3.gcdn.co/hindi-STARBHARATUS/index.m3u8
 http://156.146.43.241:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.",Colors TV 
-http://dx3.gcdn.co/hindi-COLORSUS/index.m3u8
+http://208.115.215.42/Colors_TV_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.",Colors HD
 http://156.146.43.241:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -527,7 +527,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Hindi ENT.",SONY SAB HD
-http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
+http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WataQBL.png" group-title="Hindi Movie",& Xplore
 http://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -788,7 +788,7 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyCGq7e.png" group-title="Infotainment",TLC HD
-https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtIGEpA.png" group-title="Infotainment",TLC
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
@@ -827,13 +827,13 @@ http://156.146.43.241:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/tracks-v1a1/mono.m
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Infotainment", NAT Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3SZxaE.jpg" group-title="Infotainment",Nat Geo People
 https://ott.bingebd.com/live/ngrp:nat_geo_people_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4J5l2Q.png" group-title="Infotainment",Animal Planet HD 
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4J5l2Q.png" group-title="Infotainment",Animal Planet HD (2)
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
@@ -845,16 +845,16 @@ http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k00vIzG.png" group-title="Infotainment",Discovery SD
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k00vIzG.png" group-title="Infotainment",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbLpy8B.png" group-title="Infotainment",Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTEeprm.jpg" group-title="Infotainment",Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/kfvgxtjsp5o6yw2/id.png" group-title="Infotainment",Discovery ID
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
