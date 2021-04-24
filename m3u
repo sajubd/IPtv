@@ -533,7 +533,7 @@ http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WataQBL.png" group-title="Hindi Movie",& Xplore
-http://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movie",& Flix
 http://103.49.168.171:8081/ebox/in_andflix_hd/chunks.m3u8
