@@ -242,28 +242,31 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 http://208.115.215.42/ZEE_Anmol_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZaZ13Bk.png" group-title="Hindi Movie",Zee Anmol Cinema
-http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movie",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema HD
-http://156.146.43.241:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Hindi Movie",Zee Action
-http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Hindi Movie",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Hindi Movie",Zee Bollywood
-http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1OLzQaE.png" group-title="Hindi Movie", Zee Classic
-http://208.115.215.42/ZEE_Classic_HD/tracks-v1a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v2a1/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JcYvEAu.jpg" group-title="Hindi ENT.", Zee Smile
 http://z5amshls.akamaized.net/smileusa/playlist.m3u8
@@ -273,6 +276,9 @@ http://198.255.87.59:8080/INDIA_HINDI/MINIPLEX_HD/tracks-v1a1/mono.m3u8?token=te
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/l10lqLx.jpg" group-title="Hindi Movie", Star Gold Select HD
 http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie",Star Gold
 https://ccntv.anytv.live/stargold/index.m3u8
@@ -341,10 +347,10 @@ http://156.146.43.241:2200/R-EX/HINDI_AND_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 http://z5ams.akamaized.net/andtvsd/index.m3u8?hdnts=st=1619198173~exp=1619201173~acl=/*~hmac=c812dd85e49534ada2bff5740e82fc994e58ae10721ee08a2a4991881af9d005
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movie",And Picture HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v5a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="Hindi Movie",And Picture SD
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AI0fwMY.png" group-title="Hindi Movie",B4U Movies
 http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
@@ -380,7 +386,7 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist.m3u8
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="Hindi Movie",Manoranjan TV
-https://streamitv.multitvsolution.in/idvo/manoranjantv_360p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/manoranjantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="Hindi Movie",Maha Movie
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
@@ -518,10 +524,10 @@ http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movie",& Flix
-http://103.49.168.171:8081/ebox/in_andflix_hd/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xTA4fC.jpg" group-title="English Movie",& Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movie",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -611,10 +617,10 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_1.m3u8
 http://playlive.goonj.pk/filmaxweb_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ns3Tca8.jpg" group-title="English ENT.",Zee Cafe SD
-http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ns3Tca8.jpg" group-title="English ENT.",Zee Cafe HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/JJ2ipoh.png" group-title="English ENT.",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
