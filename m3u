@@ -28,7 +28,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangla ENT.",Channel I
-http://10.16.100.205/hls/ch_i.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangla ENT.",Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
@@ -37,7 +37,7 @@ http://10.16.100.203:8082/bangla/deeptotv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla ENT.", NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangla ENT.",Nagorik TV
 http://103.102.27.172:6464/Channel-1/index.m3u8
@@ -775,7 +775,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqauMqb.png" group-title="Infotainment",FOX Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyCGq7e.png" group-title="Infotainment",TLC HD
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
@@ -787,7 +787,7 @@ https://itvorigin.multitvsolution.com/idvo/tlceng_360p/index.m3u8
 http://156.146.43.241:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="Infotainment",Travelxp HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Infotainment",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?
