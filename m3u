@@ -30,16 +30,16 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangla ENT.",Deepto TV
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
+https://cdn.naturalbd.com/j-DeeptoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="Bangla ENT.",Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla ENT.", NTV
-https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8
+https://cdn.naturalbd.com/NTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangla ENT.",Nagorik TV
-http://103.102.27.172:6464/Channel-1/index.m3u8
+https://cdn.naturalbd.com/NagorikTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangla ENT.",RTV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -162,7 +162,7 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+https://cdn.naturalbd.com/SonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
