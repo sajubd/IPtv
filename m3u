@@ -90,7 +90,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Bangla ENT.",Ekattor TV
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/11.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla ENT.",Independent TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -111,7 +111,7 @@ http://10.16.100.207:8082/sports/sportst.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla ENT.",BTV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+http://103.106.2.149:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla ENT.",Sangsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -138,7 +138,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Music",Sangeet Bangla
-https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/playlist.m3u8
+https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QOadxzR.png" group-title="Music",Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
@@ -171,13 +171,13 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3s4gbs.jpg" group-title="Bangla ENT.",Khushboo Bangla
-https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
+https://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MCXgOoy.jpg" group-title="Bangla ENT.",Enterr10 Bangla
-https://itvorigin.multitvsolution.com/idvo/enter10bangla.m3u8
+https://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Bangla ENT.",R Plus Gold [IN]
-https://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8
+https://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Bangla ENT.",Bangla Time [IN]
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
@@ -204,7 +204,7 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Bangla Movie", Aamar Cinema
-http://indtv.online/jiotv/jijitv/Amaar_Cinema.m3u8
+http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Bangla Movie", Orange Bangla
 https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
@@ -282,7 +282,7 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 https://ccntv.anytv.live/stargold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie",Star Gold PK
-http://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
 https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
@@ -549,7 +549,7 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 http://156.146.43.241:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO 2 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
@@ -558,13 +558,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2VYyqS9.png" group-title="English Movie",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movie",HBO Hits
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png" group-title="English Movie",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07tc0UD.png" group-title="English Movie",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
@@ -594,7 +594,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hYtgQJ.png" group-title="English Movie",Cinemax
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4LviKAs.png" group-title="English Movie",FX
 http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
@@ -668,6 +668,9 @@ https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="English Movie",Thrill 
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="English Movie",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="English ENT.",Star World HD
 http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
 
@@ -702,13 +705,13 @@ http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4hbd7Y.png" group-title="Kids Channels",Nickelodeon
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+http://stream.tvtap.live:8081/live/us-nick.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="Kids Channels",Nick Sonic Bangla
 https://ccntv.anytv.live/nick/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8RMInw.png" group-title="Kids Channels",Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20fs4tp.png" group-title="Kids Channels",Disney Junior
 http://79.137.41.99/DisneyChannel/index.m3u8
@@ -912,7 +915,7 @@ https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/45ixuvM.jpg" group-title="Bangla ENT.",DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_360p/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="News",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
