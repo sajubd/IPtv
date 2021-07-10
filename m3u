@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-https://probashibangla-tv.telelivebd.com/linkers/tsports.stream/chunks.m3u8
+https://probashibangla-tv.telelivebd.com/live/gazitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+https://probashibangla-tv.telelivebd.com/live/tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangla ENT.", Gazi TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.106.243.163:8181//1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangla ENT.", Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
@@ -105,7 +105,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TN9Y4FW.png" group-title="Bangla ENT.",T-Sports HD TV
-http://10.16.100.207:8082/sports/sportst.m3u8
+http://103.106.243.163:8181//17/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla ENT.",BTV World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -285,7 +285,7 @@ http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie",Star Gold HD
-https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Hindi Movie",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
@@ -322,6 +322,9 @@ http://185.180.15.15:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnZ169U.png" group-title="Hindi ENT.",Rishtey Cineplex 
 http://84.17.41.7/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnZ169U.png" group-title="Hindi ENT.",Rishtey Cineplex HD
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.",Colors Rishtey
 http://208.115.215.42/Colors_Rishtey/index.m3u8
@@ -363,10 +366,10 @@ http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie", UTV Movies
-http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=#Intent;action=
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie", UTV Action
-http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie", UTV HD
 http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -453,7 +456,7 @@ https://load.airtel.tv/9xtashan/smil:common.smil/chunklist_b564000_DVR_sleng.m3u
 http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugF2t8q.png" group-title="Hindi Movie",Enter Ten
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
+https://idvd.multitvsolution.com/idvo/enter10_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XieDGjM.png" group-title="Hindi Movie",E24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.m3u8
