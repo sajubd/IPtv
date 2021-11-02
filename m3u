@@ -1,23 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105?@INDIA_IPTV2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
-http://tv.aliflailabd.com:8989/tsports/index.m3u8
+http://cdn4.niazitv.pk:8080/Niazi-TV/Turkish/promo.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
-http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 5)
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 6)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangla ENT.", Gazi TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangla ENT.", Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangla ENT.",Asian TV
-http://tv.aliflailabd.com:8989/asiantv/index.m3u8
+http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Bangla ENT.", ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
@@ -29,10 +31,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangla ENT.",Channel I
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangla ENT.",Deepto TV
-http://103.109.56.116/live/skyfeed1007/index.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="Bangla ENT.",Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
