@@ -15,7 +15,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangla ENT.", Maasranga TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangla ENT.",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -167,7 +167,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
+http://dangguli.live:8080/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -197,13 +197,13 @@ http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Bangla ENT.",Colors Bangla SD
-http://10.16.100.205/hls/colorsbd480.m3u8
+http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
+ http://dangguli.live:8080/StarJalshaHD/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha SD
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha HD (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
@@ -221,13 +221,13 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKnILbL.png" group-title="Bangla Movie",Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Bangla ENT.",Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangla ENT.",Zee Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Bangla ENT.",Ruposhi Bangla
 http://103.49.168.171:8081/ebox/in_ruposhibangla/chunks.m3u8
@@ -1043,7 +1043,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z9fXNQ8.png" group-title="Sports",Ten Sports
-http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+http://dangguli.live:8080/TenSports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK1OYcI.png" group-title="Sports",PK Sports HD
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
