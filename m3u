@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
+https://mprod-cdn.toffeelive.com/live-event-1/master_640.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
 https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
-http://103.16.24.54:8080/channel1/index.m3u8
+https://mprod-cdn.toffeelive.com/live-event-1/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
-http://hbstreamer.tk/play.php?c=Jio_Cricket_Hindi&q=1200/live.php?c=Jio_Cricket_Hindi&q=250&e=.m3u8
+http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 5)
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 6)
 http://50.7.237.4:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 7)
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1665306727~exp=1665307027~acl=*~id=2a9e0a96-200f-4b1a-8307-8dd158d59992~hmac=6d5f6255a2500544e638223d7b5ab61308046e3f7efb90a077849a7aef9716ea&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/58c7f650-5998-4da5-9bc2-43cc996a06dc:SIN/master.m3u8
+http://221.120.204.3/TEN-SPORTS-LOCKLEeee/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangla ENT.", Gazi TV
 http://103.109.56.116/live/skyfeed1001/index.m3u8
