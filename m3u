@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-https://mprod-cdn.toffeelive.com/live-event-1/master_640.m3u8
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
 https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
-https://mprod-cdn.toffeelive.com/live-event-1/master_360.m3u8
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium368/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
 http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 5)
@@ -12,7 +12,15 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 6)
 http://50.7.237.4:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 7)
-http://221.120.204.3/TEN-SPORTS-LOCKLEeee/tracks-v1a1/mono.m3u8
+https://cdn.t20hd.click/live/1440p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 8)
+https://lin-gd-001-cf.slivcdn.com/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master.m3u8?hdnea=st=1681882904~exp=1681883204~acl=*~id=31c97c61-7f88-40d1-b03c-e0f4a86fd2a1~hmac=fe81189d97ded9b5cf6946383b5009db1849465631cb03969e5f9a6487f53166&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/40eb87ef-0d98-4268-b754-f51e9abc0b4b:TPE/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 9)
+https://lin-gd-001-cf.slivcdn.com/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master.m3u8?hdnea=st=1681882965~exp=1681883265~acl=*~id=432c0965-7d2e-477c-93f2-d47aa3086be5~hmac=e15eed8311ae153dacd7858d13fe9c8b5947a142d1dbcfa3659dbeaa64b98155&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/81385d9e-ce00-4f18-9e1e-626a90d52143:SIN2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 10)
+https://lin-gd-001-cf.slivcdn.com/out/v1/af14396716554fb59c86194f8967f47a/master.m3u8?hdnea=st=1681883006~exp=1681883306~acl=*~id=75cfdfc3-1480-42c5-80a3-f19aa3a6e89a~hmac=9cd742b383b2b1d5d0bf8ad7be75033b9cbce249ff03b57db43e8ecf3eebf7b6&originpath=/linear/hls/pb/event/BCOFZq1JQjq12fmaO6lAAA/stream/b3f0b70b-5cea-4bad-84da-35e6673244b9:SIN2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 11)
+https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master.m3u8?hdnea=st=1681883028~exp=1681883328~acl=*~id=d084d937-26b2-4de1-828b-8767354377a6~hmac=c7e7d79ca491414bf73f2c27400e79025433edc1fcd8def0a0c053624d2ff1aa&originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/98c500a2-5899-4612-9ed7-805cf4c82b02:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangla ENT.", Gazi TV
 http://103.109.56.116/live/skyfeed1001/index.m3u8
