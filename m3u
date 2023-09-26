@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-https://sonyplex.com/livetv/watch/gazi-tv-hd/32
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4a9ZIbC6ZQPO9Uw1syBicM/m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
-https://sonyplex.com/livetv/watch/t-sports-hd/28
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
 https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium368/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
@@ -208,7 +208,7 @@ http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Bangla ENT.",Colors Bangla SD
-http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2jHTZrDbJnuSjhdyau4Vg0/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
  http://dangguli.live:8080/StarJalshaHD/index.m3u8
@@ -262,7 +262,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema HD
-https://sonyplex.com/livetv/watch/zee-cinema-hd/68
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMyNZRIoDuZq5kOA43Hr0DT8/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v2a1/index.m3u8
@@ -508,31 +508,31 @@ https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m
 http://156.146.43.241:2200/R-EX/HINDI_BINDAS_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmxVY4P.png" group-title="Hindi ENT.",SONY SAB 
-https://rs.sonyplex.com/livetv/watch/sony-sab/60
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwLdSghbzGwsb1dtmUAnGW8/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV
-https://rs.sonyplex.com/livetv/watch/sony-hd/59
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0iBbhjtBo2tG7KDCUjMxmg/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie",SONY MAX
 https://sonyplex.com/livetv/watch/sony-setmax-hd/64
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2
-https://sonyplex.com/livetv/watch/sony-max-2/62
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_wjs-ELc_B1rzMyQalvYaI/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2 (BU)
 https://ccntv.anytv.live/sonymax2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sGy8yY.png" group-title="Hindi Movie",SONY WAH
-https://sonyplex.com/livetv/watch/sony-wah/63
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0mLTHsr4wDF4zb1KwCebpw/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOHchYO.jpg" group-title="Hindi ENT.",SONY Pal
-https://sonyplex.com/livetv/watch/sony-pal/61
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM7Anic6LvjiXTjjHp85OFBo/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie",SONY MAX
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGdQhSD.png" group-title="Hindi Movie",SONY MAX HD
-ttp://tv.aliflailabd.com:8989/setmax/index.m3u8
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwtsGBwXOjVPFTPkMGa7G6I/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV HD
 http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
