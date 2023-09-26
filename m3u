@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 1)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
+https://sonyplex.com/livetv/watch/gazi-tv-hd/32
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 2)
-https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_1.m3u8
+https://sonyplex.com/livetv/watch/t-sports-hd/28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 3)
 https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium368/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2kYGlZ.png" group-title="Live Sports",(Backup 4)
@@ -178,7 +178,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWCvsNW.png" group-title="Bangla ENT.",Sony Aath
-http://dangguli.live:8080/SonyAath/index.m3u8
+https://rs.sonyplex.com/livetv/watch/sony-aath/56
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movie",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -262,7 +262,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/index.m3u8
+https://sonyplex.com/livetv/watch/zee-cinema-hd/68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie",Zee Cinema UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v2a1/index.m3u8
@@ -508,25 +508,25 @@ https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m
 http://156.146.43.241:2200/R-EX/HINDI_BINDAS_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmxVY4P.png" group-title="Hindi ENT.",SONY SAB 
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+https://rs.sonyplex.com/livetv/watch/sony-sab/60
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.",SONY TV
-ttp://tv.aliflailabd.com:8989/sony-hd/index.m3u8
+https://rs.sonyplex.com/livetv/watch/sony-hd/59
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie",SONY MAX
-http://45.127.244.7:8080/hls/channel6.m3u8
+https://sonyplex.com/livetv/watch/sony-setmax-hd/64
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2
-http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
+https://sonyplex.com/livetv/watch/sony-max-2/62
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie",SONY MAX 2 (BU)
 https://ccntv.anytv.live/sonymax2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sGy8yY.png" group-title="Hindi Movie",SONY WAH
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+https://sonyplex.com/livetv/watch/sony-wah/63
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOHchYO.jpg" group-title="Hindi ENT.",SONY Pal
-http://156.146.43.241:2200/R-EX/HINDI_SONY_PAL-in/tracks-v1a1/mono.m3u8?token=
+https://sonyplex.com/livetv/watch/sony-pal/61
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie",SONY MAX
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
@@ -988,19 +988,22 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
+https://sonyplex.com/livetv/watch/sony-sports-ten-1/15
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWCoDww.jpg" group-title="Sports",Sony Ten 2
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
+https://sonyplex.com/livetv/watch/sony-sports-ten-2/16
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",SONY TEN 3
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",SONY TEN 3 HD
-http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+https://sonyplex.com/livetv/watch/sony-sports-ten-3/21
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",SONY TEN 5 HD
+https://sonyplex.com/livetv/watch/sony-sports-ten-5/22
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJkKsAs.png" group-title="Sports",SONY SIX 
 http://103.109.56.116/live/skyfeed1025/index.m3u8
